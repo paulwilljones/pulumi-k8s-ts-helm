@@ -1,0 +1,3 @@
+name: pulumi-k8s-ts-helm
+runtime: nodejs
+description: Pulumi Typescript Helm
